@@ -1,0 +1,22 @@
+<resources>
+    <string name="tipo_agua">Agua 💧</string>
+    <string name="tipo_luz">Luz 💡</string>
+    <string name="tipo_gas">Gas 🔥</string>
+    <string name="app_name">Lectura Medidor</string>
+    <string name="nueva_lectura">Nueva Lectura</string>
+    <string name="tipo_gasto">Tipo de gasto</string>
+    <string name="valor">Valor</string>
+    <string name="guardar_lectura">Guardar lectura</string>
+    <string name="valor_invalido">Ingresa un número válido mayor a cero</string>
+    <string name="titulo_listado">Lecturas de Medidores</string>
+    <string name="no_hay_lecturas">No hay lecturas registradas aún.</string>
+    <string name="borrar_todo">🗑️ Borrar todas las lecturas</string>
+    <string name="confirmar_borrado">¿Borrar todas las lecturas?</string>
+    <string name="texto_confirmacion">Esta acción no se puede deshacer.</string>
+    <string name="boton_borrar">Borrar</string>
+    <string name="boton_cancelar">Cancelar</string>
+    <string name="lectura_guardada">Lectura guardada correctamente</string>
+    <string name="etiqueta_tipo">Tipo:</string>
+    <string name="etiqueta_valor">Valor:</string>
+    <string name="etiqueta_fecha">Fecha:</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="tipo_agua">Water 💧</string>
+    <string name="tipo_luz">Electricity 💡</string>
+    <string name="tipo_gas">Gas 🔥</string>
+    <string name="app_name">Meter Reading</string>
+    <string name="nueva_lectura">New Reading</string>
+    <string name="tipo_gasto">Expense type</string>
+    <string name="valor">Value</string>
+    <string name="guardar_lectura">Save reading</string>
+    <string name="valor_invalido">Enter a valid number greater than zero</string>
+    <string name="titulo_listado">Meter Readings</string>
+    <string name="no_hay_lecturas">No readings registered yet.</string>
+    <string name="borrar_todo">🗑️ Delete all readings</string>
+    <string name="confirmar_borrado">Delete all readings?</string>
+    <string name="texto_confirmacion">This action cannot be undone.</string>
+    <string name="boton_borrar">Delete</string>
+    <string name="boton_cancelar">Cancel</string>
+    <string name="lectura_guardada">Reading saved successfully</string>
+    <string name="etiqueta_tipo">Type:</string>
+    <string name="etiqueta_valor">Value:</string>
+    <string name="etiqueta_fecha">Date:</string>
+</resources>
